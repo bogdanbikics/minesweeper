@@ -4,7 +4,8 @@ The whole business logic (minesweeper project) has been written like that. And a
 the minesweeper-swing-gui project on it (and it worked right away, yay!)
 
 Build and run:
-<code>
+
+```
 cd minesweeper
 mvn install
 
@@ -13,7 +14,7 @@ cd minesweeper-swing-gui
 mvn install
 cd target
 java -jar minesweeper-gui-1.0-SNAPSHOT-jar-with-dependencies.jar
-</code>
+```
 
 In the Menu you can set the difficulty and check your best scores.
 Enjoy! :)
