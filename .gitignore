@@ -1,0 +1,15 @@
+
+.metadata/
+
+minesweeper/target
+minesweeper/.settings
+minesweeper/.classpath
+minesweeper/.project
+
+minesweeper-swing-gui/target
+minesweeper-swing-gui/.settings
+minesweeper-swing-gui/bestscores.json
+minesweeper-swing-gui/.classpath
+minesweeper-swing-gui/.project
+
+sandbox/
